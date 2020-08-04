@@ -34,11 +34,7 @@
             // 
             // button1
             // 
-<<<<<<< HEAD
             this.button1.Location = new System.Drawing.Point(352, 374);
-=======
-            this.button1.Location = new System.Drawing.Point(257, 230);
->>>>>>> 774e17f22c46d77f4ef21979038b994fe88e041f
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 0;
@@ -48,19 +44,11 @@
             // label1
             // 
             this.label1.AutoSize = true;
-<<<<<<< HEAD
             this.label1.Location = new System.Drawing.Point(191, 185);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(19, 13);
+            this.label1.Size = new System.Drawing.Size(36, 13);
             this.label1.TabIndex = 1;
-            this.label1.Text = "p1";
-=======
-            this.label1.Location = new System.Drawing.Point(402, 344);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(19, 13);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "p2";
->>>>>>> 774e17f22c46d77f4ef21979038b994fe88e041f
+            this.label1.Text = "user 1";
             // 
             // Form1
             // 
