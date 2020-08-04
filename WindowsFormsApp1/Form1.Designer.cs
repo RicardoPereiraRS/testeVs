@@ -47,8 +47,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(191, 185);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(19, 13);
+            this.label1.Size = new System.Drawing.Size(36, 13);
             this.label1.TabIndex = 1;
+<<<<<<< HEAD
             this.label1.Text = "p1";
             // 
             // button2
@@ -59,6 +60,9 @@
             this.button2.TabIndex = 2;
             this.button2.Text = "button2";
             this.button2.UseVisualStyleBackColor = true;
+=======
+            this.label1.Text = "user 1";
+>>>>>>> 413b5e94a0472c2c55563476645fc9c90315cb70
             // 
             // Form1
             // 
